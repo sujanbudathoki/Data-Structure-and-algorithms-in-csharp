@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Github Proj\\Data-Structure-and-algorithms-in-csharp\\Arrays\\Arrays.csproj": {}
+    "G:\\Github Proj\\Data-Structure-and-algorithms-in-csharp\\Arrays\\Arrays.csproj": {}
   },
   "projects": {
-    "F:\\Github Proj\\Data-Structure-and-algorithms-in-csharp\\Arrays\\Arrays.csproj": {
+    "G:\\Github Proj\\Data-Structure-and-algorithms-in-csharp\\Arrays\\Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Github Proj\\Data-Structure-and-algorithms-in-csharp\\Arrays\\Arrays.csproj",
+        "projectUniqueName": "G:\\Github Proj\\Data-Structure-and-algorithms-in-csharp\\Arrays\\Arrays.csproj",
         "projectName": "Arrays",
-        "projectPath": "F:\\Github Proj\\Data-Structure-and-algorithms-in-csharp\\Arrays\\Arrays.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "F:\\Github Proj\\Data-Structure-and-algorithms-in-csharp\\Arrays\\obj\\",
+        "projectPath": "G:\\Github Proj\\Data-Structure-and-algorithms-in-csharp\\Arrays\\Arrays.csproj",
+        "packagesPath": "C:\\Users\\suzan\\.nuget\\packages\\",
+        "outputPath": "G:\\Github Proj\\Data-Structure-and-algorithms-in-csharp\\Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\suzan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
