@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Github Proj\\Data-Structure-and-algorithms-in-csharp\\Arrays\\Arrays.csproj",
-      "projectName": "Arrays",
-      "projectPath": "G:\\Github Proj\\Data-Structure-and-algorithms-in-csharp\\Arrays\\Arrays.csproj",
+      "projectUniqueName": "G:\\Github Proj\\Data-Structure-and-algorithms-in-csharp\\DSA.csproj",
+      "projectName": "DSA",
+      "projectPath": "G:\\Github Proj\\Data-Structure-and-algorithms-in-csharp\\DSA.csproj",
       "packagesPath": "C:\\Users\\suzan\\.nuget\\packages\\",
-      "outputPath": "G:\\Github Proj\\Data-Structure-and-algorithms-in-csharp\\Arrays\\obj\\",
+      "outputPath": "G:\\Github Proj\\Data-Structure-and-algorithms-in-csharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
