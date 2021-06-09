@@ -1,6 +1,6 @@
 # Data-Structure-and-algorithms-in-csharp
 
-Data Structures and algorithms in c# . I have recently  added arrays , trees and problems related to DSA .
+I have recently  added arrays , trees and problems related to DSA .
 
 #problem 1 (Distinct Integer)
  Problem:- This is problem is about finding no of distinct element in an intarray 
